@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<VTKFile type="Collection" version="0.1">
+  <Collection>
+    <DataSet timestep="0.050000000000000003" part="0" file="gaussian_diffuse000000.vtu" />
+    <DataSet timestep="0.10000000000000001" part="0" file="gaussian_diffuse000001.vtu" />
+    <DataSet timestep="0.15000000000000002" part="0" file="gaussian_diffuse000002.vtu" />
+    <DataSet timestep="0.20000000000000001" part="0" file="gaussian_diffuse000003.vtu" />
+    <DataSet timestep="0.25" part="0" file="gaussian_diffuse000004.vtu" />
+    <DataSet timestep="0.29999999999999999" part="0" file="gaussian_diffuse000005.vtu" />
+    <DataSet timestep="0.34999999999999998" part="0" file="gaussian_diffuse000006.vtu" />
+    <DataSet timestep="0.39999999999999997" part="0" file="gaussian_diffuse000007.vtu" />
+    <DataSet timestep="0.44999999999999996" part="0" file="gaussian_diffuse000008.vtu" />
+    <DataSet timestep="0.49999999999999994" part="0" file="gaussian_diffuse000009.vtu" />
+    <DataSet timestep="0.54999999999999993" part="0" file="gaussian_diffuse000010.vtu" />
+    <DataSet timestep="0.59999999999999998" part="0" file="gaussian_diffuse000011.vtu" />
+    <DataSet timestep="0.65000000000000002" part="0" file="gaussian_diffuse000012.vtu" />
+    <DataSet timestep="0.70000000000000007" part="0" file="gaussian_diffuse000013.vtu" />
+    <DataSet timestep="0.75000000000000011" part="0" file="gaussian_diffuse000014.vtu" />
+    <DataSet timestep="0.80000000000000016" part="0" file="gaussian_diffuse000015.vtu" />
+    <DataSet timestep="0.8500000000000002" part="0" file="gaussian_diffuse000016.vtu" />
+    <DataSet timestep="0.90000000000000024" part="0" file="gaussian_diffuse000017.vtu" />
+    <DataSet timestep="0.95000000000000029" part="0" file="gaussian_diffuse000018.vtu" />
+    <DataSet timestep="1.0000000000000002" part="0" file="gaussian_diffuse000019.vtu" />
+    <DataSet timestep="1.0500000000000003" part="0" file="gaussian_diffuse000020.vtu" />
+    <DataSet timestep="1.1000000000000003" part="0" file="gaussian_diffuse000021.vtu" />
+    <DataSet timestep="1.1500000000000004" part="0" file="gaussian_diffuse000022.vtu" />
+    <DataSet timestep="1.2000000000000004" part="0" file="gaussian_diffuse000023.vtu" />
+    <DataSet timestep="1.2500000000000004" part="0" file="gaussian_diffuse000024.vtu" />
+    <DataSet timestep="1.3000000000000005" part="0" file="gaussian_diffuse000025.vtu" />
+    <DataSet timestep="1.3500000000000005" part="0" file="gaussian_diffuse000026.vtu" />
+    <DataSet timestep="1.4000000000000006" part="0" file="gaussian_diffuse000027.vtu" />
+    <DataSet timestep="1.4500000000000006" part="0" file="gaussian_diffuse000028.vtu" />
+    <DataSet timestep="1.5000000000000007" part="0" file="gaussian_diffuse000029.vtu" />
+    <DataSet timestep="1.5500000000000007" part="0" file="gaussian_diffuse000030.vtu" />
+    <DataSet timestep="1.6000000000000008" part="0" file="gaussian_diffuse000031.vtu" />
+    <DataSet timestep="1.6500000000000008" part="0" file="gaussian_diffuse000032.vtu" />
+    <DataSet timestep="1.7000000000000008" part="0" file="gaussian_diffuse000033.vtu" />
+    <DataSet timestep="1.7500000000000009" part="0" file="gaussian_diffuse000034.vtu" />
+    <DataSet timestep="1.8000000000000009" part="0" file="gaussian_diffuse000035.vtu" />
+    <DataSet timestep="1.850000000000001" part="0" file="gaussian_diffuse000036.vtu" />
+    <DataSet timestep="1.900000000000001" part="0" file="gaussian_diffuse000037.vtu" />
+    <DataSet timestep="1.9500000000000011" part="0" file="gaussian_diffuse000038.vtu" />
+    <DataSet timestep="2.0000000000000009" part="0" file="gaussian_diffuse000039.vtu" />
+    <DataSet timestep="2.0500000000000007" part="0" file="gaussian_diffuse000040.vtu" />
+    <DataSet timestep="2.1000000000000005" part="0" file="gaussian_diffuse000041.vtu" />
+    <DataSet timestep="2.1500000000000004" part="0" file="gaussian_diffuse000042.vtu" />
+    <DataSet timestep="2.2000000000000002" part="0" file="gaussian_diffuse000043.vtu" />
+    <DataSet timestep="2.25" part="0" file="gaussian_diffuse000044.vtu" />
+    <DataSet timestep="2.2999999999999998" part="0" file="gaussian_diffuse000045.vtu" />
+    <DataSet timestep="2.3499999999999996" part="0" file="gaussian_diffuse000046.vtu" />
+    <DataSet timestep="2.3999999999999995" part="0" file="gaussian_diffuse000047.vtu" />
+    <DataSet timestep="2.4499999999999993" part="0" file="gaussian_diffuse000048.vtu" />
+    <DataSet timestep="2.4999999999999991" part="0" file="gaussian_diffuse000049.vtu" />
+    <DataSet timestep="2.5499999999999989" part="0" file="gaussian_diffuse000050.vtu" />
+    <DataSet timestep="2.5999999999999988" part="0" file="gaussian_diffuse000051.vtu" />
+    <DataSet timestep="2.6499999999999986" part="0" file="gaussian_diffuse000052.vtu" />
+    <DataSet timestep="2.6999999999999984" part="0" file="gaussian_diffuse000053.vtu" />
+    <DataSet timestep="2.7499999999999982" part="0" file="gaussian_diffuse000054.vtu" />
+    <DataSet timestep="2.799999999999998" part="0" file="gaussian_diffuse000055.vtu" />
+    <DataSet timestep="2.8499999999999979" part="0" file="gaussian_diffuse000056.vtu" />
+    <DataSet timestep="2.8999999999999977" part="0" file="gaussian_diffuse000057.vtu" />
+    <DataSet timestep="2.9499999999999975" part="0" file="gaussian_diffuse000058.vtu" />
+    <DataSet timestep="2.9999999999999973" part="0" file="gaussian_diffuse000059.vtu" />
+  </Collection>
+</VTKFile>
