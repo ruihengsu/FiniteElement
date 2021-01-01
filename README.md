@@ -1,5 +1,7 @@
 # FiniteElement
 
+These are a collection of some of small projects related to the finite element method. You can find notes, animations, and source codes.
+
 ### Directories
 
 "`UofMichigan FEM Course`"
