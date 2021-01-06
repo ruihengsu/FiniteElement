@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<VTKFile type="Collection" version="0.1">
+  <Collection>
+    <DataSet timestep="0" part="0" file="p2_displacement000000.vtu" />
+    <DataSet timestep="0.010000000000000002" part="0" file="p2_displacement000001.vtu" />
+    <DataSet timestep="0.020000000000000011" part="0" file="p2_displacement000002.vtu" />
+    <DataSet timestep="0.03000000000000002" part="0" file="p2_displacement000003.vtu" />
+    <DataSet timestep="0.040000000000000029" part="0" file="p2_displacement000004.vtu" />
+    <DataSet timestep="0.050000000000000037" part="0" file="p2_displacement000005.vtu" />
+  </Collection>
+</VTKFile>
