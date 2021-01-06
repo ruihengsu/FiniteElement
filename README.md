@@ -21,7 +21,8 @@ These are a collection of some of small projects related to the finite element m
 - Solving the wave equation in 2D over a slightly more complicated domain
 - Source code + animations
 - Time discretization using the Newmark family of algorithms. There is something wrong, but I can't figure out what it might be.
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=WJaclgUxtLU
+See the visualization here: 
+> <a href="http://www.youtube.com/watch?feature=player_embedded&v=WJaclgUxtLU
 " target="_blank"><img src="http://img.youtube.com/vi/WJaclgUxtLU/0.jpg" 
 alt="Double slit interference solution" width="240" height="180" border="10" /></a>
 
